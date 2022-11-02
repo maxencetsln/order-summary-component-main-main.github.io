@@ -4,7 +4,7 @@ This is a solution to the [Order summary component on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [GibHub](https://github.com/maxencetsln/news-homepage-main.github.io)
+- Solution URL: [GibHub](https://github.com/maxencetsln/order-summary-component-main-main.github.io)
 - Live Site URL: [GitHub Pages](https://maxencetsln.github.io/news-homepage-main.github.io/)
 
 ## The challenge
