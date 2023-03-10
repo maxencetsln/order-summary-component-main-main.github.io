@@ -20,4 +20,3 @@ Your challenge is to build out this order summary card component and get it look
 ## Author
 
 - GitHub Pages - [maxencetsln](https://github.com/maxencetsln)
-- Frontend Mentor - [@BikoiFr](https://www.frontendmentor.io/profile/BikoiFr)
