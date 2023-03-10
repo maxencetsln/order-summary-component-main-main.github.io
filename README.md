@@ -1,15 +1,15 @@
 # Frontend Mentor - Order summary component
 
-This is a solution to the [Order summary component on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-FQZudYdcv). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Results summary component] (https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Links
 
-- Solution URL: [GibHub](https://github.com/maxencetsln/order-summary-component-main-main.github.io)
-- Live Site URL: [GitHub Pages](https://maxencetsln.github.io/order-summary-component-main-main.github.io/)
+- Solution URL: [GibHub](https://github.com/maxencetsln/results-summary-component-main.io)
+- Live Site URL: [GitHub Pages](https://maxencetsln.github.io/results-summary-component-main.io/)
 
 ## The challenge
 
-Your challenge is to build out this order summary card component and get it looking as close to the design as possible.
+Your challenge is building out this results summary component and getting it as close to the design as possible.
 
 ### Built with
 
